@@ -1,21 +1,22 @@
 {
-  "name": "cycle-json-js",
+  "name": "json-cycle",
   "version": "1.0.0",
-  "description": "JS Library to handle JSON.",
-  "module": "dist/index.js",
-  "main": "dist/index.js",
+  "description": "JS library handle JSON",
+  "main": "cycle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rockchan123/JSON-js.git"
   },
   "keywords": [
-    "JSON",
-    "cycle"
+    "JSON"
   ],
   "author": "Terry Chan <rockchan123@gmail.com>",
   "license": "MIT",
-  "files": [
-    "dist"
-  ],
-  "homepage": "https://github.com/rockchan123/JSON-js"
+  "bugs": {
+    "url": "https://github.com/rockchan123/JSON-js/issues"
+  },
+  "homepage": "https://github.com/rockchan123/JSON-js#readme"
 }
